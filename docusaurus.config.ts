@@ -34,7 +34,16 @@ const config: Config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+plugins: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        language: ['en'],
+        highlightSearchTermsOnTargetPage: true,
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
@@ -86,7 +95,8 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Help Centre',
-        }
+        },
+         { type: 'search', position: 'right' }, 
       ],
     },
     footer: {
