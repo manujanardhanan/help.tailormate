@@ -33,8 +33,8 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={` ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={siteConfig.title}
+      description="Your complete guide to using TailorMate App — tutorials, FAQs, and support.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

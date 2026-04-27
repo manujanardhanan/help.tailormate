@@ -2,46 +2,36 @@
 sidebar_position: 1
 ---
 
-# Tutorial for Tailormate App
+# Welcome to TailorMate Help Center
 
-Let's discover **Tailormate in less than 5 minutes**.
+TailorMate is a complete business management app built for tailors and garment professionals. This help center has everything you need to get the most out of the app.
 
-## Getting Started 
+## What can TailorMate do?
 
-Get started by **creating a new site**.
+- **Manage customers** — Store measurements, order history, and contact details for every customer.
+- **Track orders** — Create, update, and monitor stitching orders from intake to delivery.
+- **Measurements** — Save and reuse detailed body measurement profiles per customer.
+- **Production tracking** — Assign tasks to workers and monitor progress on every garment.
+- **Workers & payouts** — Manage staff, set piece rates, track dues, and record salary payouts.
+- **Billing & payments** — Generate GST bills, print, and share via WhatsApp in one tap.
+- **Reports** — View revenue, outstanding payments, and order summaries at a glance.
+- **Gallery** — Store design reference photos organised by garment type.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## How to use this Help Center
 
-### What you'll need
+Use the sidebar to browse topics by category, or use the **search bar** at the top to find answers by keyword.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+| Section | What you'll find |
+|---|---|
+| **Getting Started** | Account setup, dashboard walkthrough, first steps |
+| **App Features** | In-depth guides for every feature |
+| **Watch Videos** | Step-by-step video tutorials |
+| **FAQs** | Quick answers to common questions |
+| **Contact Support** | How to reach the TailorMate support team |
 
-## Generate a new site
+## Need help right away?
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- **Web app:** [web.tailormateapp.com](https://web.tailormateapp.com/auth/login)
+- **Android:** [Google Play Store](https://play.google.com/store/apps/details?id=com.tailormate&hl=en_IN)
+- **iOS:** [Apple App Store](https://apps.apple.com/in/app/tailormate-app-for-tailors/id6736565286)
+- **Contact us:** [tailormateapp.com/#contact](https://www.tailormateapp.com/#contact)

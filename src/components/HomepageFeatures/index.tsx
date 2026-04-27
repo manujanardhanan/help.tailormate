@@ -8,13 +8,14 @@ type FeatureItem = {
   title: string;
   Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: ReactNode;
+  link?: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: 'Getting Started',
     Svg: require('@site/static/img/app-getting-started3.svg').default,
-    link: '/docs/category/tutorial---basics',
+    link: '/docs/category/getting-started',
     description: (
       <>
         New to TailorMate? Start here. This section walks you through initial setup, dashboard overview, and how to begin managing your tailoring business smoothly.
@@ -24,6 +25,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Watch Tutorial Videos',
     Svg: require('@site/static/img/app-tutorial-videos.svg').default,
+    link: '/docs/category/watch-videos',
     description: (
       <>
        Explore step-by-step video tutorials designed to help you understand and use TailorMate more effectively.
@@ -31,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Search Knowldgebase',
+    title: 'Search Knowledgebase',
     Svg: require('@site/static/img/app-tutorial-search.svg').default,
     description: (
       <>
@@ -48,7 +50,9 @@ function Feature({title, Svg, description, link}: FeatureItem) {
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <Heading as="h3"><Link to={link} style={{ textDecoration: 'none' }}>{title} </Link></Heading>
+        <Heading as="h3">
+          {link ? <Link to={link} style={{ textDecoration: 'none' }}>{title}</Link> : title}
+        </Heading>
         <p>{description}</p>
       </div>
     </div>
