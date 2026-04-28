@@ -1,10 +1,10 @@
 ---
 sidebar_position: 5
-title: Your First Order — Complete Walkthrough
+title: Adding Your First Order
 description: Step-by-step guide to creating your first tailoring order in TailorMate
 ---
 
-# Your First Order — Complete Walkthrough
+# Adding Your First Order
 
 This guide walks you through creating a new stitching order from start to finish.
 
@@ -27,8 +27,6 @@ The **Select Customer** screen opens. If you have existing customers, search and
 To add a new customer, tap **+** in the top-right corner and choose:
 - **Add New Contact** — enter details manually
 - **Select a Phone Contact** — import from your phone's contacts
-
-![Select customer screen](/img/screenshots/photo_15_2026-04-26_10-46-17.jpg)
 
 ![Add new contact options](/img/screenshots/photo_16_2026-04-26_10-46-17.jpg)
 

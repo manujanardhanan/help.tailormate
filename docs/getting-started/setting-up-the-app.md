@@ -50,33 +50,83 @@ Make sure your Shop name, Phone number, UPI, Address, and Business logo are upda
 Adjust the settings to fit your store.
 
 ![Configure Settings-1](/img/screenshots/photo_40_2026-04-26_10-46-17.jpg)
-![Configure Settings-1](/img/screenshots/photo_41_2026-04-26_10-46-17.jpg)
+![Configure Settings-2](/img/screenshots/photo_41_2026-04-26_10-46-17.jpg)
 
-- **Stitching**
-- **Pickup at Customer Site**
-- **Measurement at Customer Site**
-- **Online Orders**
 
-## 3. Set Your Measurement Unit
+**1. Services Offered**
 
-In **Settings**, choose whether you record measurements in **Centimetres** or **Inches**.
+- Select which all are services you provide in your store. Only Stitching or Fabric (Material) and Readymade also.
 
-## 4. Add Your Garment Types
+**2. Online Order Settings**
+- Pickup at Customer Site
+- Measurement at Customer Site
+- Online Orders
 
-Go to **Administration** → **Dresses** and add the garment types you stitch (e.g., Churidar, Salwar, Saree Blouse). This makes order creation faster.
+**3. Measurement Unit**
 
-## 5. Add Your Add-Ons
+- Centimeter or Inch
 
-Go to **Administration** → **Add-Ons** and add any extras you charge for (e.g., Embroidery, Lining, Lace) with their default prices.
+**4. Tax Details**
 
-## 6. Add Your Workers
+- If your store has GST/VAT (based on your country), turn on this setting. You can add your GST/ VAT percentage, GST / VAT No. 
 
-Go to **Workers** and add your staff members with their roles. This lets you assign orders and track payouts.
+Also, you can mention if the GST/VAT is included in the price entered. 
+In this case, it will reverse calcualte the GST from the total price. 
 
-## 7. Set Order Number Format
+**5. Order Number Format**
 
-In **Settings** → **Order Number Format**, choose how your orders are numbered — Random, Serial, or Custom.
+- Random - System will assign an Order number randomly. It will of format AB123. 
+- Serial - Auto incremented order number from the number you give.
+- Custom - System will assign an Order number randomly. But you can edit it to whatever you need. 
+
+**6. App Customization**
+
+**- Customize Whatsapp Messages** - You can customize when to send the WhatsApp messages to your customers from TailorMate. 
+
+By defult, this setting is off, which means no customization. Whatsapp will be sent always.
+If you want to send WhatsApp message only on specific Order Status say "Ready for Trial", then click the gear icon and select only "Ready for Trial"
+![Customize Whatsapp Messages](/img/screenshots/photo_2026-04-27_23-03-25.jpg)
+
+**- Customize Bill Terms** - You can customize terms and conditions on Bill generated from tailorMate App. 
+
+By defult, this setting is off, which means no customization. All standard Terms are shown on bill.
+If you want to show only specific Terms to be displayed, then click the gear icon and select only the ones you want.
+![Customize Whatsapp Messages](/img/screenshots/photo_2026-04-27_23-03-26.jpg)
+
+**- Customize Bill Number** - You can customize Bill Number generated from tailorMate App. 
+
+By defult, this setting is off, which means no customization. Standard Bill number is shown.
+If you want some secific Prefix or Sufix in the Bill Number, then click the gear icon and select the options you want.
+![Customize Whatsapp Messages](/img/screenshots/photo_2026-04-27_23-03-28.jpg)
+
+**- Customize Default Number of Days** - You can customize how many days orders to be shown on orders page by default. 
+
+By defult, this is set to 90 days, which means when you go to orders tab, only last 90 days orders will be shown. If you want to see older data, 
+you can click Edit this value in orders (temporarily) or change in settings permanently.
+
+![Customize no of days](/img/screenshots/photo_2026-04-27_23-14-52.jpg)
+
+**7. Select Templates**
+**- Customize Invoice Template** - You can customize how invoice will look like. 
+
+Select a suitable template of your choice.
+
+![Customize no of days](/img/screenshots/photo_2026-04-27_23-14-54.jpg)
+
+**- Customize Order Form Template** - You can customize how your order form will look like. 
+
+Select a suitable template of your choice.
+
+![Customize no of days](/img/screenshots/photo_2026-04-27_23-14-55.jpg)
+
+- After you make any changes to settings , **DONT FORGET** to Click **"Save Settings"** Button.. 
+![Save Settings](/img/screenshots/save-settings.png) 
+
+**8. Delete your Account Permanantly**
+- If you permanently want to delete your account, click Delete Account Button... **- Be careful will delete all your Data** 
+![Delete Account](/img/screenshots/delete-account.png) .
+
 
 ---
 
-Once these steps are done, you're ready to start taking orders. See [Your First Order](/docs/getting-started/first-order-walkthrough) for a full walkthrough.
+Once these steps are done, you're ready to start taking orders. See [Adding Your First Order](/docs/getting-started/first-order-walkthrough) for a full walkthrough.

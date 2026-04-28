@@ -40,20 +40,20 @@ Learn how to configure TailorMate after creating your account — services, meas
 
 ---
 
-## Setting Up Your Business Profile
+## Administration Setup
 
-See how to add your shop name, address, logo, and contact details so they appear on your bills.
+See how to configure your garment types, tasks, add-ons, and services before you start taking orders.
 
 > Video coming soon.
 
-**Written guide:** [Set Up Your Business Profile](/docs/getting-started/profile-setup)
+**Written guide:** [Administration](/docs/getting-started/administration)
 
 ---
 
-## Your First Order — Full Walkthrough
+## Adding Your First Order
 
 Watch the complete flow: adding a customer, saving measurements, creating an order, recording payment, and delivering.
 
 > Video coming soon.
 
-**Written guide:** [Your First Order](/docs/getting-started/first-order-walkthrough)
+**Written guide:** [Adding Your First Order](/docs/getting-started/first-order-walkthrough)
